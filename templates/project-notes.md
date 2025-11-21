@@ -1,7 +1,8 @@
 # <PROJECT-ID> Notes
 
-> memos/ 配下のメモを整理して記録する。  
-> 元のメモの内容はコピーせず要約のみ記載すること。
+> Summaries extracted from memos.  
+> Final written content must be in Japanese.  
+> Do not copy raw memo text.
 
 ## From memos/<file-name>
 - [決定事項]
